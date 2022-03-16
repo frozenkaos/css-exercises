@@ -1,0 +1,19 @@
+.item{
+    background-color: rgb(252, 47, 150);
+    font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+   
+}
+.cooler-item {
+    font-size: 24px;
+}
+
+#n2 {
+    color: rgb(9, 9, 238);
+    font-size: 36px;
+}
+
+#n4 {
+    background-color: rgb(101, 255, 101);
+    font-size: 24px;
+    font-weight: bold;
+}
